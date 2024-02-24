@@ -1,6 +1,6 @@
 {
   "name": "console-art-x",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package allows you to write your name to the console once in your ReactJS application.",
   "keywords": [
     "console",
