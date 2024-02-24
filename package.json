@@ -1,0 +1,25 @@
+{
+  "name": "console-art-x",
+  "version": "1.0.2",
+  "description": "This package allows you to write your name to the console once in your ReactJS application.",
+  "keywords": [
+    "console",
+    "react",
+    "ui",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "https://linktr.ee/MehmetSalihBozkir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MehmetBozkir"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehmet Salih Bozkir",
+  "license": "MIT"
+}
