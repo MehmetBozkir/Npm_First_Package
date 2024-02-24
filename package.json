@@ -14,7 +14,7 @@
   "homepage": "https://linktr.ee/MehmetSalihBozkir",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MehmetBozkir"
+    "url": "https://github.com/MehmetBozkir/Npm_First_Package.git"
   },
   "main": "index.js",
   "scripts": {
